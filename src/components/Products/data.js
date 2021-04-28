@@ -8,28 +8,28 @@ import product6 from '../../images/prod6.jpg';
 export const productData = [
     {
       img: product1,
-      alt: 'Pizza',
-      name: 'Supreme Pizza',
+      alt: 'Hamburguer',
+      name: 'Burguer Z',
       desc:
-        'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+        'Pão, 2x Burguer, bacon, queijo cheddar, cebola roxa',
       price: '$19.99',
       button: 'Add to Cart'
     },
     {
       img: product2,
-      alt: 'Pizza',
-      name: 'Hawaiian Paradise',
+      alt: 'Hamburguer',
+      name: 'Burguer X',
       desc:
-        ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+        'Pão, Maionese, hamburguer, tomate, queijo cheddar, picles',
       price: '$16.99',
       button: 'Add to Cart'
     },
     {
       img: product3,
-      alt: 'Pizza',
-      name: 'Veggie Overload',
+      alt: 'Hamburguer',
+      name: 'Burguer Y',
       desc:
-        ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+        'Pão, Hamburguer artesanal, queijo cheddar',
       price: '$14.99',
       button: 'Add to Cart'
     }
@@ -38,28 +38,28 @@ export const productData = [
   export const productDataTwo = [
     {
       img: product4,
-      alt: 'Donuts',
-      name: 'Doughlicious',
+      alt: 'Hamburguer',
+      name: 'Burguer A',
       desc:
-        'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
+        'Pão, 2x burguers, bacon, queijo cheedar, maionese',
       price: '$9.99',
       button: 'Add to Cart'
     },
     {
       img: product5,
-      alt: 'Ice Cream',
-      name: 'Caramel Wonder',
+      alt: 'Hamburger',
+      name: 'Burguer B',
       desc:
-        'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
+        'Pão, ovo, alface americano, tomate',
       price: '$12.99',
       button: 'Add to Cart'
     },
     {
       img: product6,
-      alt: 'Brownie',
-      name: 'Brownie Bunch',
+      alt: 'Hamburguer',
+      name: 'Burguer C',
       desc:
-        'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
+        'Pão, 2x Burguer, queijo mussarela, picles, maionese',
       price: '$9.99',
       button: 'Add to Cart'
     }
