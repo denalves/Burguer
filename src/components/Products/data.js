@@ -12,8 +12,8 @@ export const productData = [
       name: 'Burguer Z',
       desc:
         'Pão, 2x Burguer, bacon, queijo cheddar, cebola roxa',
-      price: '$19.99',
-      button: 'Add to Cart'
+      price: 'R$25.99',
+      button: 'Adicionar na sacola'
     },
     {
       img: product2,
@@ -21,8 +21,8 @@ export const productData = [
       name: 'Burguer X',
       desc:
         'Pão, Maionese, hamburguer, tomate, queijo cheddar, picles',
-      price: '$16.99',
-      button: 'Add to Cart'
+      price: 'R$29.99',
+      button: 'Adicionar na sacola'
     },
     {
       img: product3,
@@ -30,8 +30,8 @@ export const productData = [
       name: 'Burguer Y',
       desc:
         'Pão, Hamburguer artesanal, queijo cheddar',
-      price: '$14.99',
-      button: 'Add to Cart'
+      price: 'R$14.99',
+      button: 'Adicionar na sacola'
     }
   ];
 
@@ -42,8 +42,8 @@ export const productData = [
       name: 'Burguer A',
       desc:
         'Pão, 2x burguers, bacon, queijo cheedar, maionese',
-      price: '$9.99',
-      button: 'Add to Cart'
+      price: 'R$24.99',
+      button: 'Adicionar na sacola'
     },
     {
       img: product5,
@@ -51,8 +51,8 @@ export const productData = [
       name: 'Burguer B',
       desc:
         'Pão, ovo, alface americano, tomate',
-      price: '$12.99',
-      button: 'Add to Cart'
+      price: 'R$15.99',
+      button: 'Adicionar na sacola'
     },
     {
       img: product6,
@@ -60,8 +60,8 @@ export const productData = [
       name: 'Burguer C',
       desc:
         'Pão, 2x Burguer, queijo mussarela, picles, maionese',
-      price: '$9.99',
-      button: 'Add to Cart'
+      price: 'R$12.99',
+      button: 'Adicionar na sacola'
     }
   ];
   

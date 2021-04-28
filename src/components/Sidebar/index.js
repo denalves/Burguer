@@ -22,7 +22,7 @@ const Sidebar = ({isOpen, toggle}) => {
         <SidebarLink to="/">Delivery</SidebarLink>
       </SidebarMenu>
       <SideBtnWrap>
-        <SidebarRoute to="/">Order Now</SidebarRoute>
+        <SidebarRoute to="/">Pedir agora</SidebarRoute>
       </SideBtnWrap>
     </SidebarContainer>
   );

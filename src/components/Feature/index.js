@@ -4,9 +4,9 @@ import { FeatureContainer, FeatureButton } from './FeatureElements';
 const Feature = () => {
   return (
     <FeatureContainer>
-      <h1>Burger of the Day</h1>
-      <p>Truffle alfredo sauce topped with 24 carat gold dust.</p>
-      <FeatureButton>Order Now</FeatureButton>
+      <h1>Promoção do dia</h1>
+      <p>Burguer A copm 40% de desconto use o codigo #ota9z0.</p>
+      <FeatureButton>Pedir agora</FeatureButton>
     </FeatureContainer>
   );
 };

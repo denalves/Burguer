@@ -13,9 +13,9 @@ function App() {
     <Router>
       <GlobalStyle/>
       <Hero/>
-      <Products heading='choose your favorite ' data={productData}/>
+      <Products heading='Escolha seu favorito' data={productData}/>
       <Feature/>
-      <Products heading='sweet treates ' data={productDataTwo}/>
+      <Products heading='outras opções' data={productDataTwo}/>
       <Footer/>
     </Router>
   );
